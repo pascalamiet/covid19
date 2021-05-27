@@ -1,4 +1,4 @@
-# covid19
+# Covid-19 Cases
 
 This is an R script that automatically downloads the current data on Covid-19 in Switzerland and creates plots. The data is retrieved directly from the GitHub repository of openZH, the open data initiative in Zürich. The link can be found here: https://github.com/openZH/covid_19. 
 
