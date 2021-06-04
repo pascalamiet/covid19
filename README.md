@@ -4,6 +4,11 @@ This is an R script that automatically downloads the current data on Covid-19 in
 
 The graphs it creates contain scatterplots, as well as a non-linear regression on top of it. A couple of examples can be found below. These plots were created on 4 June 2021 and may thus be outdated when you look at them.
 
+<p align='center'>
+<img width="300" alt="avg_confirmed" src="https://user-images.githubusercontent.com/61436958/120797183-f808ca00-c53b-11eb-8914-072116eb2289.png">
+</p>
+
+
 ![avg_confirmed](https://user-images.githubusercontent.com/61436958/120797183-f808ca00-c53b-11eb-8914-072116eb2289.png =300x)
 
 
